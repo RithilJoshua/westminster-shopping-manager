@@ -1,0 +1,1 @@
+Clothings - ID: 4bu4, Name: shirt, Available Items: 5, Price:10000.0, Size: 32, Color: red
